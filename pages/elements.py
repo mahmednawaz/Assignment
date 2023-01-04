@@ -1,19 +1,15 @@
 class Elements:
     link = "https://www.techlistic.com/p/selenium-practice-form.html"
     fname_css = "input[name=firstname]"
-    fname = "Ahmed"
+
     lname_css = "input[name=lastname]"
-    lname = "Nawaz"
     gender_css = "#sex-0"
     exp_css = "#exp-0"
     date_css = "#datepicker"
-    date = "23-01-22"
     prof_css = "#profession-0"
     auto_tool_css = "#tool-2"
     continent_css = "select#continents"
-    continent_value="Australia"
     selen_comnd_css = "#selenium_commands"
-    selem_comnd_value="Wait Commands"
     img_css="#photo"
     submit_css = "#submit"
 
